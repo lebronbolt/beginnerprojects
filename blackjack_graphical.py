@@ -7,7 +7,7 @@ import random
 import copy
 
 #Load Images
-icon = pygame.image.load('resources/icon.png')
+#icon = pygame.image.load('resources/icon.png')
 cBack = pygame.image.load('resources/cards/cardback.png')
 diamondA = pygame.image.load('resources/cards/ad.png')
 clubA = pygame.image.load('resources/cards/ac.png')
@@ -63,7 +63,7 @@ heartK = pygame.image.load('resources/cards/kh.png')
 spadeK = pygame.image.load('resources/cards/ks.png')
 
 #Set Icon
-pygame.display.set_icon(icon)
+#pygame.display.set_icon(icon)
 
 #Global Constants
 black = (0,0,0)
